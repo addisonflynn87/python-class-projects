@@ -1,31 +1,20 @@
-# python-class-projects
-Python programs completed as part of my Information Technology – Cybersecurity coursework.
 # Python Class Projects
 
-This repository contains Python programs I completed as part of my Information Technology – Cybersecurity coursework.
+Python programs completed as part of my Information Technology – Cybersecurity coursework at Austin Community College. Demonstrates fundamentals: conditionals, loops, functions, file I/O, and menu-driven program design.
 
-## About Me
+| Script | Description |
+|---|---|
+| `intro_program.py` | Prints basic author info as a first "hello world"-style exercise |
+| `color_mixer.py` | Takes two primary colors and outputs the resulting secondary color |
+| `grocery_receipt_calculator.py` | Calculates a produce receipt total including sales tax |
+| `tuition_growth_projection.py` | Projects tuition cost growth over 5 years at a fixed annual rate |
+| `prime_number_finder.py` | Finds all prime numbers in a user-specified range |
+| `file_average_calculator.py` | Reads numbers from a file (`numbers10.txt`), skips invalid entries, computes the average |
+| `world_series_win_counter.py` | Counts a given MLB team's World Series wins from `WorldSeriesWinners.txt` |
+| `pig_latin_translator.py` | Menu-driven English ↔ Pig Latin translator |
+| `course_lookup_system.py` | Looks up room, instructor, and meeting time for a given course number |
+| `temp_converter_f_c.py` | Converts between Fahrenheit and Celsius |
+| `temp_converter_f_c_k.py` | Converts between Fahrenheit, Celsius, and Kelvin |
 
-My name is Addison Flynn. I am a U.S. Navy CTN veteran currently pursuing an Associate Degree in Information Technology – Cybersecurity. I am building my skills in Python, networking, cloud computing, IT support, and cybersecurity.
-
-## Projects Included
-
-- Converter Program
-- Prime Number Checker
-- Average Calculator
-- Turtle Graphics Project
-
-## Skills Demonstrated
-
-- Python fundamentals
-- Variables and data types
-- Conditional logic
-- Loops
-- Functions
-- User input
-- Basic problem solving
-- Code organization
-
-## Career Goal
-
-My goal is to transition into an IT Support, Network Administration, or Cybersecurity role where I can apply both my technical training and professional experience.
+## Author
+Addison Flynn — U.S. Navy veteran, IT/Cybersecurity student at Austin Community College
